@@ -12,6 +12,7 @@ public class player_movement : MonoBehaviour
     public float stamina;
     public Slider staminaBar;
     public SpriteRenderer sR;
+    public Player_shoot PSH;
     
     void Update()
     {
@@ -88,7 +89,14 @@ public class player_movement : MonoBehaviour
         }
     }
 
-    
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.CompareTag("BulletBox"))
+        {
+            PSH.bulletCount += 15;
+            Destroy(collision.gameObject);
+        }
+    }
 
 
 }
