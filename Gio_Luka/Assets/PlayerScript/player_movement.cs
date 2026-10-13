@@ -5,14 +5,8 @@ using UnityEngine;
 public class player_movement : MonoBehaviour
 {
     public float playerSpeed;
-    
-    
-    void Start()
-    {
-
-    }
-
-    // Update is called once per frame
+    public Animator animator;
+    public Camera cam;
     void Update()
     {
         float x = Input.GetAxisRaw("Horizontal");
