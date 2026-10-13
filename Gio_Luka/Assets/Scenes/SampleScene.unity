@@ -1232,7 +1232,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2f9fa57e85e6e2043a22cdb479f9a73c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bullet: {fileID: 3127473064986036785, guid: 48514778c4ff6314a9dd7e9a3b2915b1, type: 3}
+  bullet: {fileID: 94577568445737264, guid: 2bc68fa9b4809b94b9394cf7883d353f, type: 3}
   firePoint: {fileID: 756823214}
   cam: {fileID: 519420031}
 --- !u!95 &1831029551
