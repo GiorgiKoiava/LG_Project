@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - BulletBox
+  - GunBullet
   layers:
   - Default
   - TransparentFX

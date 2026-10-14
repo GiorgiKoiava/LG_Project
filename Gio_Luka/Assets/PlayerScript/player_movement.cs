@@ -13,7 +13,6 @@ public class player_movement : MonoBehaviour
     public Slider staminaBar;
     public SpriteRenderer sR;
     public Player_shoot PSH;
-    
     void Update()
     {
         Movement();
@@ -26,7 +25,7 @@ public class player_movement : MonoBehaviour
     void Movement()
     {
         {
-        #region WALKING
+            #region WALKING
             
                     float x = Input.GetAxisRaw("Horizontal");
                     float y = Input.GetAxisRaw("Vertical");
