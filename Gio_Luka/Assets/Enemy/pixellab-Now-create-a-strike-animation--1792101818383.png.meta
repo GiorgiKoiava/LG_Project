@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: a8751b8bd63c6b545b8641d3a1067edf
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixellab-Now-create-a-strike-animation--1792101818383_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 225
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2b1a9e20047cd499026f83ed04df03
+      internalID: 1211181814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-Now-create-a-strike-animation--1792101818383_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 225
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c408ba612c7bcee41a19bebd3ba081a0
+      internalID: -1359017016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-Now-create-a-strike-animation--1792101818383_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 225
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e2c07209a795b4cb985dbc705729a5
+      internalID: -483868154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-Now-create-a-strike-animation--1792101818383_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 225
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18e442221a825947b9e9bdc7bc86a42
+      internalID: 1811302332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-Now-create-a-strike-animation--1792101818383_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 225
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f88de9d32b1334882d24062b20ddc2
+      internalID: 184546690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-Now-create-a-strike-animation--1792101818383_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 225
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640c4e2a04b89ca449ac2522b42b0d2d
+      internalID: -604095439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-Now-create-a-strike-animation--1792101818383_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 225
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cc503a97e30a1479fb8a6a02be2b0d
+      internalID: -1603533793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-Now-create-a-strike-animation--1792101818383_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 225
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2280f227f841b2f48b0abb300df2d04c
+      internalID: -415856219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pixellab-Now-create-a-strike-animation--1792101818383_0: 1211181814
+      pixellab-Now-create-a-strike-animation--1792101818383_1: -1359017016
+      pixellab-Now-create-a-strike-animation--1792101818383_10: 663707066
+      pixellab-Now-create-a-strike-animation--1792101818383_11: 468052569
+      pixellab-Now-create-a-strike-animation--1792101818383_12: -688805901
+      pixellab-Now-create-a-strike-animation--1792101818383_13: 1953946804
+      pixellab-Now-create-a-strike-animation--1792101818383_14: 200686442
+      pixellab-Now-create-a-strike-animation--1792101818383_15: -1958031588
+      pixellab-Now-create-a-strike-animation--1792101818383_16: -709877375
+      pixellab-Now-create-a-strike-animation--1792101818383_17: 297634162
+      pixellab-Now-create-a-strike-animation--1792101818383_18: 1432158454
+      pixellab-Now-create-a-strike-animation--1792101818383_19: -706651420
+      pixellab-Now-create-a-strike-animation--1792101818383_2: -483868154
+      pixellab-Now-create-a-strike-animation--1792101818383_20: -2036974638
+      pixellab-Now-create-a-strike-animation--1792101818383_21: -1460532509
+      pixellab-Now-create-a-strike-animation--1792101818383_22: 2003191403
+      pixellab-Now-create-a-strike-animation--1792101818383_23: 1476890405
+      pixellab-Now-create-a-strike-animation--1792101818383_24: 1365668592
+      pixellab-Now-create-a-strike-animation--1792101818383_25: -1020773479
+      pixellab-Now-create-a-strike-animation--1792101818383_26: 2120480375
+      pixellab-Now-create-a-strike-animation--1792101818383_27: 174440985
+      pixellab-Now-create-a-strike-animation--1792101818383_28: -2106404660
+      pixellab-Now-create-a-strike-animation--1792101818383_29: 1863496958
+      pixellab-Now-create-a-strike-animation--1792101818383_3: 1811302332
+      pixellab-Now-create-a-strike-animation--1792101818383_30: -1876901210
+      pixellab-Now-create-a-strike-animation--1792101818383_31: -2088581168
+      pixellab-Now-create-a-strike-animation--1792101818383_32: 1588778684
+      pixellab-Now-create-a-strike-animation--1792101818383_33: 1750267737
+      pixellab-Now-create-a-strike-animation--1792101818383_34: -1230114452
+      pixellab-Now-create-a-strike-animation--1792101818383_35: -851271299
+      pixellab-Now-create-a-strike-animation--1792101818383_36: -2001096864
+      pixellab-Now-create-a-strike-animation--1792101818383_37: 2037950376
+      pixellab-Now-create-a-strike-animation--1792101818383_38: -260424359
+      pixellab-Now-create-a-strike-animation--1792101818383_39: 15900253
+      pixellab-Now-create-a-strike-animation--1792101818383_4: 184546690
+      pixellab-Now-create-a-strike-animation--1792101818383_40: -1266481439
+      pixellab-Now-create-a-strike-animation--1792101818383_41: -1926570653
+      pixellab-Now-create-a-strike-animation--1792101818383_42: -1689020096
+      pixellab-Now-create-a-strike-animation--1792101818383_43: 587148088
+      pixellab-Now-create-a-strike-animation--1792101818383_44: -925535774
+      pixellab-Now-create-a-strike-animation--1792101818383_45: -901853017
+      pixellab-Now-create-a-strike-animation--1792101818383_46: -1217380374
+      pixellab-Now-create-a-strike-animation--1792101818383_47: 455614449
+      pixellab-Now-create-a-strike-animation--1792101818383_48: -1655013817
+      pixellab-Now-create-a-strike-animation--1792101818383_49: 592392219
+      pixellab-Now-create-a-strike-animation--1792101818383_5: -604095439
+      pixellab-Now-create-a-strike-animation--1792101818383_50: 1226697068
+      pixellab-Now-create-a-strike-animation--1792101818383_51: 790309580
+      pixellab-Now-create-a-strike-animation--1792101818383_52: -2146448453
+      pixellab-Now-create-a-strike-animation--1792101818383_53: 1750021667
+      pixellab-Now-create-a-strike-animation--1792101818383_54: 2073062232
+      pixellab-Now-create-a-strike-animation--1792101818383_55: -672132281
+      pixellab-Now-create-a-strike-animation--1792101818383_56: -1475985060
+      pixellab-Now-create-a-strike-animation--1792101818383_57: -863440839
+      pixellab-Now-create-a-strike-animation--1792101818383_58: -1621263200
+      pixellab-Now-create-a-strike-animation--1792101818383_59: 1365313247
+      pixellab-Now-create-a-strike-animation--1792101818383_6: -1603533793
+      pixellab-Now-create-a-strike-animation--1792101818383_60: 363303650
+      pixellab-Now-create-a-strike-animation--1792101818383_61: 2144947429
+      pixellab-Now-create-a-strike-animation--1792101818383_62: -691110466
+      pixellab-Now-create-a-strike-animation--1792101818383_63: 1125362387
+      pixellab-Now-create-a-strike-animation--1792101818383_7: -415856219
+      pixellab-Now-create-a-strike-animation--1792101818383_8: 2084511659
+      pixellab-Now-create-a-strike-animation--1792101818383_9: 604901476
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
