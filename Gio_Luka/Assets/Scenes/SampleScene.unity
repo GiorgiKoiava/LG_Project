@@ -283,7 +283,7 @@ MonoBehaviour:
     m_PressedTrigger: Pressed
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
-  m_Interactable: 1
+  m_Interactable: 0
   m_TargetGraphic: {fileID: 0}
   m_FillRect: {fileID: 1702628799}
   m_HandleRect: {fileID: 0}
@@ -1528,7 +1528,7 @@ MonoBehaviour:
     m_PressedTrigger: Pressed
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
-  m_Interactable: 1
+  m_Interactable: 0
   m_TargetGraphic: {fileID: 0}
   m_FillRect: {fileID: 632031529}
   m_HandleRect: {fileID: 0}
@@ -1720,7 +1720,7 @@ MonoBehaviour:
     m_PressedTrigger: Pressed
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
-  m_Interactable: 1
+  m_Interactable: 0
   m_TargetGraphic: {fileID: 0}
   m_FillRect: {fileID: 1587328969}
   m_HandleRect: {fileID: 0}
@@ -2870,7 +2870,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.15, y: 1.25}
+    oldSize: {x: 1.2272727, y: 1.3636364}
     newSize: {x: 1.15, y: 1.25}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -2920,7 +2920,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 1211181814, guid: a8751b8bd63c6b545b8641d3a1067edf, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 034875b70dcef1d40a56c8ff979c3cfe, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
