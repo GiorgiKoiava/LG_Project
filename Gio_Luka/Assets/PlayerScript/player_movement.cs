@@ -13,6 +13,8 @@ public class player_movement : MonoBehaviour
     public Slider staminaBar;
     public SpriteRenderer sR;
     public Player_shoot PSH;
+    public Text xpText;
+    public int xp = 0;
     void Update()
     {
         Movement();
@@ -20,7 +22,7 @@ public class player_movement : MonoBehaviour
     private void Start()
     {
         staminaBar.maxValue = 100;
-        staminaBar.value = stamina;       
+        staminaBar.value = stamina;
     }
     void Movement()
     {
@@ -97,7 +99,11 @@ public class player_movement : MonoBehaviour
             PSH.bulletCount += 15;
             Destroy(collision.gameObject);
         }
+        if (collision.gameObject.CompareTag("XP"))
+        {
+            xp += 1;
+            xpText.text = "" + xp;
+            Destroy(collision.gameObject);
+        }
     }
-
-
 }

@@ -8,6 +8,7 @@ public class Enemy_Movement : MonoBehaviour
     public float speed = 3f;
     public Slider health;
     public GameObject Explousen;
+    public GameObject xpPrefab;
 
     private void Start()
     {
@@ -44,6 +45,26 @@ public class Enemy_Movement : MonoBehaviour
 
         if (health.value <= 0)
         {
+            int orbCount = Random.Range(1, 5); 
+
+            //meordeba imdenjer ramdeni xpc unda gachndes
+            for (int i = 0; i < orbCount; i++)
+            {
+                //qmnis dashorebas chonchixs pozicidan
+                Vector2 randomOffset = Random.insideUnitCircle * 0.5f;
+
+                GameObject xp = Instantiate(xpPrefab, (Vector2)transform.position + randomOffset, Quaternion.identity);
+
+                Rigidbody2D rb = xp.GetComponent<Rigidbody2D>();
+
+                if (rb != null)
+                {
+                    Vector2 direction = Random.insideUnitCircle.normalized;
+
+                    rb.AddForce(direction * Random.Range(1.5f, 3f), ForceMode2D.Impulse);
+                }
+            }
+
             Instantiate(Explousen, transform.position, Quaternion.identity);
             Destroy(gameObject);
         }

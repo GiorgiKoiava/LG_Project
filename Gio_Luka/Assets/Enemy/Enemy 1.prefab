@@ -415,6 +415,7 @@ MonoBehaviour:
   speed: 2
   health: {fileID: 3067928495579824281}
   Explousen: {fileID: 1887565982272902228, guid: e36e3a76f8f480e42908e3992c624330, type: 3}
+  xpPrefab: {fileID: 1769523116474468214, guid: 431b783a462cf5a46a45fc9f8161486d, type: 3}
 --- !u!1 &5977804954150370963
 GameObject:
   m_ObjectHideFlags: 0

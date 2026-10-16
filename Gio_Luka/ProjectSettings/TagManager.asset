@@ -6,6 +6,7 @@ TagManager:
   tags:
   - BulletBox
   - GunBullet
+  - XP
   layers:
   - Default
   - TransparentFX
