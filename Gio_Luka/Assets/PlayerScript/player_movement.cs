@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class player_movement : MonoBehaviour
 {
-    public float playerSpeed;
+    public float playerSpeed, RunSpeed;
     public Animator animator;
     public Camera cam;
     public float run_speed_coef;
@@ -74,6 +74,7 @@ public class player_movement : MonoBehaviour
                 {              
                     transform.position += V3 * playerSpeed * run_speed_coef * Time.deltaTime;
                     stamina -= 5 * Time.deltaTime;
+                    stamina = Mathf.Clamp(stamina, 0, 100);
                     staminaBar.value = stamina;
 
                 }
@@ -81,6 +82,7 @@ public class player_movement : MonoBehaviour
                 {
                     transform.position += V3 * playerSpeed * Time.deltaTime;
                     stamina += 2 * Time.deltaTime;
+                    stamina = Mathf.Clamp(stamina, 0, 100);
                     staminaBar.value = stamina;
                 }
             
